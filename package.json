@@ -1,0 +1,21 @@
+{
+  "name": "proyecto_front_zurich",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.14.1",
+    "@wdio/cli": "^9.12.5",
+    "@wdio/cucumber-framework": "^9.12.5",
+    "@wdio/local-runner": "^9.12.5",
+    "@wdio/spec-reporter": "^9.12.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
