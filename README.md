@@ -53,3 +53,12 @@ El proyecto está configurado para ejecutar las pruebas en modo incógnito en Ch
 Para ejecutar todas las pruebas, utiliza el siguiente comando:
 ```bash
    npx wdio run wdio.conf.ts
+```
+
+
+![Mi imagen desde Imgur](https://i.imgur.com/nEIGVxb.png)
+
+
+![Mi imagen desde Imgur](https://i.imgur.com/SJDcoVj.png)
+
+
